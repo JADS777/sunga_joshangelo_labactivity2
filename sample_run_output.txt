@@ -1,0 +1,70 @@
+_______Student Management System_______
+1. Create student
+2. Display students
+3. Update student
+4. Delete student
+5. Exit
+Choose an option: Enter student ID: Enter surname: Enter first name: Enter middle initial: Enter birth month (e.g. 05): Enter birth day (e.g. 21): Enter birth year (e.g. 2004): Enter skills (comma-separated, e.g. Python, Git, SQL): Student created!
+
+_______Student Management System_______
+1. Create student
+2. Display students
+3. Update student
+4. Delete student
+5. Exit
+Choose an option: Enter student ID: Enter surname: Enter first name: Enter middle initial: Enter birth month (e.g. 05): Enter birth day (e.g. 21): Enter birth year (e.g. 2004): Enter skills (comma-separated, e.g. Python, Git, SQL): Student created!
+
+_______Student Management System_______
+1. Create student
+2. Display students
+3. Update student
+4. Delete student
+5. Exit
+Choose an option: 
+Students:
+[1] ID: 2024 | Dela Cruz, Juan D. | Birthdate: 07/07/2007 | Skills: Git, SQL
+[2] ID: 2028 | Sunga, Josh D. | Birthdate: 11/11/2011 | Skills: BB, YT, GG
+
+_______Student Management System_______
+1. Create student
+2. Display students
+3. Update student
+4. Delete student
+5. Exit
+Choose an option: 
+Students:
+[1] ID: 2024 | Dela Cruz, Juan D. | Birthdate: 07/07/2007 | Skills: Git, SQL
+[2] ID: 2028 | Sunga, Josh D. | Birthdate: 11/11/2011 | Skills: BB, YT, GG
+
+Enter the index number of the student to update: Enter new surname: Enter new first name: Enter new middle initial: Enter new birth month: Enter new birth day: Enter new birth year: Enter new skills (comma-separated): Student updated!
+
+_______Student Management System_______
+1. Create student
+2. Display students
+3. Update student
+4. Delete student
+5. Exit
+Choose an option: 
+Students:
+[1] ID: 2024 | Dela Cruz, Juan C. | Birthdate: 07/07/2007 | Skills: SQL
+[2] ID: 2028 | Sunga, Josh D. | Birthdate: 11/11/2011 | Skills: BB, YT, GG
+
+Enter the index number of the student to delete: Student deleted!
+
+_______Student Management System_______
+1. Create student
+2. Display students
+3. Update student
+4. Delete student
+5. Exit
+Choose an option: 
+Students:
+[1] ID: 2028 | Sunga, Josh D. | Birthdate: 11/11/2011 | Skills: BB, YT, GG
+
+_______Student Management System_______
+1. Create student
+2. Display students
+3. Update student
+4. Delete student
+5. Exit
+Choose an option: System shutting down.
